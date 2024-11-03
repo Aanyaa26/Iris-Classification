@@ -1,4 +1,4 @@
-# Iris Classification 🌸
+# Iris-Classification 🌸
 
 This project is a machine learning-based classifier built to predict the species of an Iris flower based on its physical characteristics. The classifier leverages the classic **Iris Dataset** and is implemented using Jupyter Notebook. 
 
